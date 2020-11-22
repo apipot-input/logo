@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: ProzaLibre-Regular
+font link: https://fonts.google.com/specimen/Proza+Libre
+font author: Jasper de Waard
+font author site: http://bureauroffa.com/about-proza-libre
+Slogan Font: ProzaLibre-Regular
+
+icon designer: Alice Mortaro
+icon designer link: /allie.fanni
+        
+{"bg-gradient-0":"#30223A","bg-gradient-1":"#F13800","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
